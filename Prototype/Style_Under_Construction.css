@@ -1,0 +1,15 @@
+body
+{
+	margin:0;
+	padding: 0;
+    background-image: url("images/lovely_2.png");
+    background-size: 1538px 800px;
+    background-repeat: no-repeat;
+}
+.Under_Construction
+{
+	margin-top: 250px;
+	margin-left: 350px;
+	font-size: 40px;
+	color: #ff88ff;
+}

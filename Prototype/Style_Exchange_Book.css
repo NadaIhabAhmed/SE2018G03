@@ -1,0 +1,75 @@
+body
+{
+	margin: 0;
+	padding: 0;
+}
+.body_exchange_book
+{
+	background-image: url("images/lovely_2.png");
+	background-repeat: no-repeat;
+	background-size: 1538px 800px;
+}
+
+.header_exhange_book
+{
+    background-color: rgba(5,100,100,0.4);
+    padding: 5px;
+    height: 100px;
+    border-bottom: ridge;
+}
+
+.h1-header
+{
+	color: yellow;
+}
+.h2_header
+{
+	color:#ff99cc;
+	font-size: 30px;
+}
+
+.exchange_book_div_center
+{
+	margin-top: 50px;
+	margin-left: 300px;
+	border-style: ridge;
+	width: 780px;
+	height: 550px;
+	background-color: rgba(40,100,100,0.4);
+}
+
+.description
+{
+	font-size: 20px;
+	color: #ffb3da;
+	display: block;
+}
+
+.book_name
+{
+	width: 250px;
+	padding:5px;
+}
+.book_name_label
+{
+	font-size: 20px;
+	color: #ffb3da;
+	display: block;
+}
+.upload_book_photo
+{
+	font-size: 20px;
+	color: #ffb3da;
+	display: block;
+}
+
+
+.exchange_button
+{
+	margin-left: 20px; 
+}
+
+.error
+{
+	color: red;
+}

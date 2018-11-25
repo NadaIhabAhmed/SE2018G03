@@ -1,0 +1,125 @@
+body
+{
+	margin:0;
+	padding: 0;
+
+}
+.body_proceed_to_checkout
+{
+	margin:0;
+	padding: 0;
+    background-image: url("images/lovely_2.png");
+    background-size: 1538px 800px;
+    background-repeat: no-repeat;
+}
+.header_proceed_to_checkout
+{
+    background-color: rgba(5,100,100,0.4);
+    padding: 5px;
+    height: 100px;
+    border-bottom: ridge;
+}
+
+.div_proceed_to_checkout
+{
+	width: 600px;
+	margin-left: 600px;
+}
+.h1_proceed_to_checkout
+{
+	color: #ff80ff;
+}
+a:hover
+{
+	color: hotpink;
+}
+
+.name-i
+{
+	border-radius: 5px;
+	margin-bottom: 10px;
+	width: 200px;
+}
+
+.country_i
+{
+	border-radius: 5px;
+	margin-bottom: 10px;
+	width: 200px;
+}
+.city_i
+{
+	border-radius: 5px;
+	margin-bottom: 10px;
+	width: 200px;
+}
+.postal_code_i
+{
+	border-radius: 5px;
+	margin-bottom: 10px;
+	width: 200px;
+}
+
+.mobile-i
+{
+	border-radius: 5px;
+	margin-bottom: 10px;
+	width: 200px;
+}
+.address-i
+{
+	border-radius: 5px;
+	margin-bottom: 10px;
+	width: 350px;
+	height: 100px;
+}
+.postal_code_s
+{
+	color: orange;
+	font-size: 20px;
+}
+.name-s
+{
+	color: orange;
+	font-size: 20px;
+}
+.city_s
+{
+	color: orange;
+	font-size: 20px;
+}
+.country_s
+{
+	color: orange;
+	font-size: 20px;
+}
+
+.mobile-s
+{
+	color: orange;
+	font-size: 20px;
+}
+.address-s
+{
+	color: orange;
+	font-size: 20px;
+}
+.h1-s
+{
+	color:orange;
+}
+.header_sign_in
+{
+	background-color: rgba(5,100,100,0.4);
+	width: 1536px;
+	height: 100px;
+}
+.h1-header
+{
+	color: yellow;
+}
+/*............................validation......................................*/
+.error
+{
+	color: red;
+}
