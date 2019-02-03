@@ -8,7 +8,9 @@ This website is for an online bookstore. it contains various genres of books, yo
 The website is being built using Html and Css for Frontend and PHP for Backend.
 
 White Paper: https://github.com/NadaIhabAhmed/SE2018G03/blob/master/White%20Paper/SE2018G03_white_paper.docx
+
 Final BRD: https://github.com/NadaIhabAhmed/SE2018G03/blob/master/BRD/SE2018G03_BRD.pdf
+
 Final SRS: https://github.com/NadaIhabAhmed/SE2018G03/blob/master/SRS/SE2018G03_SRS_Final_version_Last_Modification.pdf
 
 
