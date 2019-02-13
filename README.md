@@ -1,10 +1,13 @@
-Books' World
+<h1>Books' World</h1>
 
 This website is built by:
 
-<a href="https://getbootstrap.com/">Bootstrap</a>
+<ul>
+  <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
+  
+  <li><a href="www.php.net">PHP</a></li>
 
-<a href="www.php.net">PHP</a>
+</ul>
 
 Website's Link: <a href="http://se2018g03-booksworld.epizy.com">Books' World</a>  
 
@@ -19,9 +22,10 @@ Documentation:
   <li><a href="https://github.com/NadaIhabAhmed/SE2018G03/tree/master/Project%20Files">Project Files</a></li>
 </ul>
 
-Group: SE2018G03
-
+<h2>Author</h2>
 By: Nada Ihab Ahmed Mohamed Abdelgawad
+
+Group: SE2018G03
 
 ID: 1501580
 
