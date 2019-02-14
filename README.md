@@ -11,7 +11,7 @@ This website is built by:
 
 Website's Link: <a href="http://se2018g03-booksworld.epizy.com">Books' World</a>  
 
-/*Note: For Admin Mode -> Email: admin@gmail.com , password: admin123 */
+Note: To sign in as Admin -> Email: admin@gmail.com , password: admin123 
 
 Documentation:
 <ul>
