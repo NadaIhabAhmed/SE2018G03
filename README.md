@@ -11,6 +11,8 @@ This website is built by:
 
 Website's Link: <a href="http://se2018g03-booksworld.epizy.com">Books' World</a>  
 
+/*Note: For Admin Mode -> Email: admin@gmail.com , password: admin123 */
+
 Documentation:
 <ul>
   <li><a href="https://github.com/NadaIhabAhmed/SE2018G03/blob/master/White%20Paper/SE2018G03_white_paper.docx">White Paper</a></li>
