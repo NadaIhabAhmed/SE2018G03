@@ -1,6 +1,6 @@
 <h1>Books' World</h1>
 
-This website is built by:
+This website is built with:
 
 <ul>
   <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
